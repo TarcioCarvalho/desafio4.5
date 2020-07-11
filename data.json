@@ -1,0 +1,44 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "avatar_url": "https://source.unsplash.com/collection/6800490/500x500",
+      "name": "Fernanda Oliveira",
+      "birth": 631152000000,
+      "degree": "mestrado",
+      "class_type": "Presencial",
+      "subjects": "Matemática, Física",
+      "created_at": 1594428291163
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://source.unsplash.com/collection/6800490/500x500",
+      "name": "Guilherme Saraiva",
+      "birth": 721526400000,
+      "degree": "superior",
+      "class_type": "À distância",
+      "subjects": "Matemática",
+      "created_at": 1594428291163
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://source.unsplash.com/collection/6800490/500x500",
+      "name": "Alex Silva",
+      "birth": 318297600000,
+      "degree": "doutorado",
+      "class_type": "Presencial",
+      "subjects": "Matemática, Química, Física",
+      "created_at": 1594428291163
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://source.unsplash.com/collection/6800490/500x500",
+      "name": "Tarcio Carvalho",
+      "birth": 627350400000,
+      "degree": "superior",
+      "class_type": "Presencial",
+      "subjects": "Engenharia",
+      "created_at": 1594428291163
+    }
+  ]
+}
